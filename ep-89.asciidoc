@@ -55,9 +55,11 @@ As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] 
 * https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
 * https://opencollective.com/sdkman[SDKMAN!]
 
-== Books
+== Shameless Self Promotion
 
-* https://pragprog.com/titles/mockito/mockito-made-clear/[Mockito Made Clear]
+* https://pragprog.com/titles/mockito/mockito-made-clear/[Mockito Made Clear] by Ken Kousen
+* https://youtube.com/@talesfromthejarside[Tales from the jar side YouTube channel]
+* https://kenkousen.substack.com[Tales from the jar side newsletter]
 
 == Thank you
 
@@ -70,5 +72,5 @@ As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] 
 * YouTube: https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ[Subscribe if you haven't already :-)]
 
 ## Brought to you by
-* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
-* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
+* Ken Kousen twitter: @kenkousen, mastodon: @kenkousen@mastodon.social, home: http://www.kousenit.com[Kousen IT, Inc]
+* Sergio del Amo twitter: @sdelamo, home: https://objectcomputing.com [Object Computing]
