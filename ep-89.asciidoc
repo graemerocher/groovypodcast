@@ -6,7 +6,7 @@ As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] 
 
 == Releases
 
-* https://groovy.apache.org/download.html[Groovy 4.0.10 released] with 40 fixes and improvements.
+* https://groovy.apache.org/download.html[Groovy 4.0.10 released]
 * https://spockframework.org/spock/docs/2.3/release_notes.html[Spock 2.3 release notes]
 * https://micronaut.io/2023/03/09/micronaut-framework-3-8-7-released/[Micronaut 3.8.7 released]
 * https://github.com/grails/grails-core/releases/tag/v5.3.2[Grails 5.3.2]
