@@ -1,0 +1,74 @@
+== Show notes for Episode 89 (S07E01)
+
+Today is Wednesday, March 29, 2023, with your hosts Ken Kousen (https://twitter.com/kenkousen[@kenkousen]) in Marborough, CT, and Graeme Rocher (https://twitter.com/graemerocher?lang=en[@graemerocher]) in ???.
+
+As always, NFJS hosts the https://nofluffjuststuff.com/groovypodcast[home page] for the Groovy Podcast.
+
+== Releases
+
+* https://groovy.apache.org/download.html[Groovy 4.0.10 released] with 40 fixes and improvements.
+* https://spockframework.org/spock/docs/2.3/release_notes.html[Spock 2.3 release notes]
+* https://micronaut.io/2023/03/09/micronaut-framework-3-8-7-released/[Micronaut 3.8.7 released]
+* https://github.com/grails/grails-core/releases/tag/v5.3.2[Grails 5.3.2]
+
+
+== Blog Posts and Others
+
+* https://t.co/LZOuIgaBdM[Spocklight: Assert Elements in Collections in Any Order] by Mr. Haki.
+* https://keyholesoftware.com/2022/06/02/using-groovy-4-ginq-for-the-win/[GINQ for the win] by Rik Scarborough
+* https://glaforge.dev/posts/2023/03/28/exploring-open-location-code/[Exploring Open Location Code] by Guillaume Laforge
+* https://glaforge.dev/posts/2023/03/21/tip-visualize-output-in-groovy-console/[Visualize output in the Groovy Console] by Guillaume Laforge
+* Apache Groovy blog posts by Paul King:
+ ** https://t.co/xIQ2wh91LW[Processing Haiku text with Groovy]
+ ** https://t.co/ctdrprw0Fp[Groovy Testing with Combinations and Permutations]
+ ** https://t.co/3oJBdv0J3R[Converting natural language into actions with Apache NLPCraft]
+ ** https://t.co/zKn4fzTnSw[Fast inverse square root in Quake III arena]
+ ** https://t.co/8Pc5vsPEdL[Exploring Antarctic and Australian time zones]
+ ** https://t.co/hC7pvHYvKX[A Wordle checker in Groovy]
+ ** https://t.co/jx6r1HfrHD[Processing nulls in lists]
+ ** https://groovy.apache.org/blog/groundhog-day[Groundhog Day]
+ ** https://groovy.apache.org/blog/fun-with-rating-stars[Fun with rating stars]
+ ** https://t.co/7ZYXh3sjY6[Apache Groovy year in review]
+* https://micronaut.io/2023/03/17/announcing-partnership-with-unity/[Micronaut Foundation announces partnership with the Unity Foundation]
+* https://t.co/5F0W3LqEb3[Grails Foundation announces partnership with the Unity Foundation]
+* https://t.co/TszkVjw27N[Micronaut 4.0 will support Groovy 4.0]
+
+== Micronaut Links
+
+* https://micronaut.io/blog/[Micronaut Blog]
+* https://www.youtube.com/channel/UCEWZUAC6afuExvl-V-vbRGw/featured[Micronaut YouTube Channel]
+* https://micronautpodcast.com/[Micronaut Podcast], new episode every two weeks
+* https://guides.micronaut.io[Micronaut Guides]
+
+== Grails Links
+
+* https://grails.org/index.html[Grails Home Page]
+* https://guides.grails.org/index.html[Grails Guides]
+* https://slack.grails.org/[Grails Slack Channel]
+
+== Conferences
+
+* https://communityovercode.org/[Apache Community Over Code] October 7 - 10, 2023, in Halifax, Nova Scotia.
+
+== Sponsor at Open Collective
+
+* https://opencollective.com/friends-of-groovy[Friends of Apache Groovy]
+* https://opencollective.com/sdkman[SDKMAN!]
+
+== Books
+
+* https://pragprog.com/titles/mockito/mockito-made-clear/[Mockito Made Clear]
+
+== Thank you
+
+* https://nofluffjuststuff.com/home/main[No Fluff Just Stuff] for the website hosting.
+
+== Follow the podcast
+
+* Twitter: https://twitter.com/groovypodcast[@groovypodcast]
+* Home page: http://nofluffjuststuff.com/groovypodcast[Groovy podcast home page]
+* YouTube: https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ[Subscribe if you haven't already :-)]
+
+## Brought to you by
+* Ken Kousen twitter: @kenkousen, w: http://www.kousenit.com, newsletter: http://kenkousen.substack.com[Tales from the jar side]
+* Sergio del Amo twitter: @sdelamo, w: https://objectcomputing.com 
